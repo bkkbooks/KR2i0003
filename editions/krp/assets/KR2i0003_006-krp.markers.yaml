@@ -1207,6 +1207,7 @@ markers:
   - {type: variant, offset: 3983, length: 1, content: 扵, WYG: 於}
   - {type: punctuation, offset: 3986, content: (, id: KR2i0003_krp_006-bkkpn1}
   - {type: variant, offset: 3986, length: 0, content: '', WYG: 黄忠}
+  - {type: voice, offset: 3986, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 3988, content: /, id: KR2i0003_krp_006-bkkpn2}
   - {type: variant, offset: 3988, length: 2, content: 黄志, WYG: ''}
   - {type: punctuation, offset: 3990, content: ), id: KR2i0003_krp_006-bkkpn3}
@@ -1825,4 +1826,4 @@ markers:
 
       ', id: KR2i0003_krp_006-bkkkrnewl333}
   back: []
-hash: sha256:f3cc1cd33e6b05765909200a63ef5fe4c9efbdf8f3c4c6db85183b788fecb5ce
+hash: sha256:634ceb4f1cc281bd55026c09b1d2fc5151fe4aa261d8c55a196d10429a534bdf

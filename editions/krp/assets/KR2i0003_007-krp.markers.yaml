@@ -1353,6 +1353,7 @@ markers:
   - {type: line-break, offset: 4375, content: '', id: KR2i0003_SBCK_007-11a04}
   - {type: punctuation, offset: 4384, content: (, id: KR2i0003_krp_007-bkkpn1}
   - {type: variant, offset: 4384, length: 2, content: 闕性, WYG: 載籍典掌舊文}
+  - {type: voice, offset: 4384, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 4385, content: ), id: KR2i0003_krp_007-bkkpn2}
   - {type: variant, offset: 4388, length: 1, content: 來, WYG: 来}
   - {type: 'kr:newline', offset: 4390, content: '
@@ -2234,4 +2235,4 @@ markers:
 
       ', id: KR2i0003_krp_007-bkkkrnewl405}
   back: []
-hash: sha256:84404c50eb2291f8998140801e5445970d5230818cfe94702c409568509859b3
+hash: sha256:83cad3fba2bebb114e9cbd836f7c40aabb60766643926ea141960461202f73fd

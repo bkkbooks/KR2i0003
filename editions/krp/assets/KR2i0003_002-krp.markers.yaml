@@ -761,6 +761,7 @@ markers:
   - {type: punctuation, offset: 2460, content: (, id: KR2i0003_krp_002-bkkpn1}
   - {type: variant, offset: 2460, length: 1, content: 洩, SBCK: 􅂥}
   - {type: variant, offset: 2460, length: 5, content: 洩孟達謀者, WYG: ''}
+  - {type: voice, offset: 2460, length: 11, name: note, id: n1}
   - {type: punctuation, offset: 2465, content: /, id: KR2i0003_krp_002-bkkpn2}
   - {type: punctuation, offset: 2471, content: ), id: KR2i0003_krp_002-bkkpn3}
   - {type: 'kr:newline', offset: 2471, content: '
@@ -801,6 +802,7 @@ markers:
       ', id: KR2i0003_krp_002-bkkkrnewl154}
   - {type: line-break, offset: 2612, content: '', id: KR2i0003_SBCK_002-7a10}
   - {type: punctuation, offset: 2625, content: (, id: KR2i0003_krp_002-bkkpn4}
+  - {type: voice, offset: 2625, length: 7, name: note, id: n2}
   - {type: punctuation, offset: 2632, content: ), id: KR2i0003_krp_002-bkkpn5}
   - {type: 'kr:newline', offset: 2632, content: '
 
@@ -896,6 +898,7 @@ markers:
       ', id: KR2i0003_krp_002-bkkkrnewl174}
   - {type: line-break, offset: 2948, content: '', id: KR2i0003_SBCK_002-8a06}
   - {type: punctuation, offset: 2961, content: (, id: KR2i0003_krp_002-bkkpn6}
+  - {type: voice, offset: 2961, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 2965, content: ), id: KR2i0003_krp_002-bkkpn7}
   - {type: 'kr:newline', offset: 2965, content: '
 
@@ -1287,4 +1290,4 @@ markers:
 
       ', id: KR2i0003_krp_002-bkkkrnewl251}
   back: []
-hash: sha256:88309f4f3ff252f9dff60820f5a43381a003fe953f1df1324749794d9e2ced15
+hash: sha256:54845c63caeb9104ff729a09973679c414b1238e87c8bc77e6aff4c2c9e895a1

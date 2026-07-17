@@ -110,6 +110,7 @@ markers:
   - {type: line-break, offset: 347, content: '', id: KR2i0003_SBCK_005-1b09}
   - {type: punctuation, offset: 350, content: (, id: KR2i0003_krp_005-bkkpn1}
   - {type: variant, offset: 350, length: 3, content: 厶子系, WYG: ''}
+  - {type: voice, offset: 350, length: 7, name: note, id: n1}
   - {type: punctuation, offset: 353, content: /, id: KR2i0003_krp_005-bkkpn2}
   - {type: punctuation, offset: 357, content: ), id: KR2i0003_krp_005-bkkpn3}
   - {type: variant, offset: 357, length: 0, content: '', WYG: 厶子系}
@@ -177,6 +178,7 @@ markers:
   - {type: line-break, offset: 532, content: '', id: KR2i0003_SBCK_005-2a07}
   - {type: punctuation, offset: 534, content: (, id: KR2i0003_krp_005-bkkpn4}
   - {type: variant, offset: 534, length: 2, content: 張隆, WYG: ''}
+  - {type: voice, offset: 534, length: 5, name: note, id: n2}
   - {type: punctuation, offset: 536, content: /, id: KR2i0003_krp_005-bkkpn5}
   - {type: punctuation, offset: 539, content: ), id: KR2i0003_krp_005-bkkpn6}
   - {type: variant, offset: 539, length: 0, content: '', WYG: 張隆}
@@ -1268,4 +1270,4 @@ markers:
 
       ', id: KR2i0003_krp_005-bkkkrnewl244}
   back: []
-hash: sha256:89a6c61e53c5b9a95004c1c6fd4ee5881c6f77b5a21766c84db63a5ef002cc27
+hash: sha256:ebbce44330d519dce4bb65296c8322add20c5eed2ed22aff864832da99f74200

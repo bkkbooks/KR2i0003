@@ -940,6 +940,7 @@ markers:
   - {type: line-break, offset: 3433, content: '', id: KR2i0003_SBCK_001-8b11}
   - {type: punctuation, offset: 3436, content: (, id: KR2i0003_krp_001-bkkpn1}
   - {type: variant, offset: 3436, length: 2, content: 建和, WYG: ''}
+  - {type: voice, offset: 3436, length: 5, name: note, id: n1}
   - {type: punctuation, offset: 3438, content: /, id: KR2i0003_krp_001-bkkpn2}
   - {type: punctuation, offset: 3441, content: ), id: KR2i0003_krp_001-bkkpn3}
   - {type: variant, offset: 3441, length: 0, content: '', WYG: 建和}
@@ -1392,6 +1393,7 @@ markers:
   - {type: page-break, offset: 5002, content: '', id: KR2i0003_WYG_001-16b, image: WYG0463/WYG0463-0142d.png}
   - {type: punctuation, offset: 5008, content: (, id: KR2i0003_krp_001-bkkpn4}
   - {type: variant, offset: 5008, length: 16, content: 强皃又渠覊切又渠良切文一重音三着, WYG: 著}
+  - {type: voice, offset: 5008, length: 32, name: note, id: n2}
   - {type: punctuation, offset: 5023, content: /, id: KR2i0003_krp_001-bkkpn5}
   - {type: 'kr:non-cjk', offset: 5031, content: ○, id: KR2i0003_krp_001-bkkkrnonc1}
   - {type: variant, offset: 5039, length: 1, content: 弓, WYG: 弜强貌又渠羈切又渠良切文一重音三}
@@ -1688,6 +1690,7 @@ markers:
   - {type: line-break, offset: 5980, content: '', id: KR2i0003_SBCK_001-15a04}
   - {type: punctuation, offset: 5986, content: (, id: KR2i0003_krp_001-bkkpn7}
   - {type: variant, offset: 5986, length: 1, content: 闕, WYG: 俗}
+  - {type: voice, offset: 5986, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 5987, content: ), id: KR2i0003_krp_001-bkkpn8}
   - {type: variant, offset: 5996, length: 1, content: 麓, WYG: 􅅢}
   - {type: 'kr:newline', offset: 6000, content: '
@@ -1721,4 +1724,4 @@ markers:
 
       ', id: KR2i0003_krp_001-bkkkrnewl345}
   back: []
-hash: sha256:6f7b94d4c661be7ceebc62e2ff76047e963b8fd1efad5d664129fec16242110b
+hash: sha256:b380e77a9dd46ec8a1d637d2b0ce04f6c52c9dbf8927ff21127fa34ec9d5a160

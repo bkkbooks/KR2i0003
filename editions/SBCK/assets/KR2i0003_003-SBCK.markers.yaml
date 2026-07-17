@@ -1537,6 +1537,7 @@ markers:
       ', id: KR2i0003_SBCK_003-bkkkrnewl365}
   - {type: line-break, offset: 6390, content: '', id: KR2i0003_SBCK_003-16a06}
   - {type: punctuation, offset: 6391, content: (, id: KR2i0003_SBCK_003-bkkpn1}
+  - {type: voice, offset: 6391, length: 26, name: note, id: n1}
   - {type: punctuation, offset: 6417, content: ), id: KR2i0003_SBCK_003-bkkpn2}
   - {type: 'kr:newline', offset: 6417, content: '
 
@@ -1599,6 +1600,7 @@ markers:
       ', id: KR2i0003_SBCK_003-bkkkrnewl380}
   - {type: line-break, offset: 6664, content: '', id: KR2i0003_SBCK_003-16b09}
   - {type: punctuation, offset: 6671, content: (, id: KR2i0003_SBCK_003-bkkpn3}
+  - {type: voice, offset: 6671, length: 8, name: note, id: n2}
   - {type: punctuation, offset: 6679, content: ), id: KR2i0003_SBCK_003-bkkpn4}
   - {type: 'kr:newline', offset: 6679, content: '
 
@@ -1746,6 +1748,7 @@ markers:
       ', id: KR2i0003_SBCK_003-bkkkrnewl415}
   - {type: line-break, offset: 7255, content: '', id: KR2i0003_SBCK_003-18a08}
   - {type: punctuation, offset: 7259, content: (, id: KR2i0003_SBCK_003-bkkpn5}
+  - {type: voice, offset: 7259, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 7261, content: ), id: KR2i0003_SBCK_003-bkkpn6}
   - {type: 'kr:newline', offset: 7261, content: '
 
@@ -1824,6 +1827,7 @@ markers:
       ', id: KR2i0003_SBCK_003-bkkkrnewl434}
   - {type: line-break, offset: 7557, content: '', id: KR2i0003_SBCK_003-19a03}
   - {type: punctuation, offset: 7568, content: (, id: KR2i0003_SBCK_003-bkkpn7}
+  - {type: voice, offset: 7568, length: 6, name: note, id: n4}
   - {type: punctuation, offset: 7571, content: /, id: KR2i0003_SBCK_003-bkkpn8}
   - {type: punctuation, offset: 7574, content: ), id: KR2i0003_SBCK_003-bkkpn9}
   - {type: 'kr:newline', offset: 7581, content: '
@@ -1920,4 +1924,4 @@ markers:
 
       ', id: KR2i0003_SBCK_003-bkkkrnewl457}
   back: []
-hash: sha256:7598e8e8816920cd234f69d7b5acd79592b4635457a17d6298d8bff2d41b1c95
+hash: sha256:16749a9e8b3960d22ddda2498c4672d2e9cdfec2552d8e558b2a4e72f062af3d
