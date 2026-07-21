@@ -1,7 +1,7 @@
 canonical_identifier: bkk:krp/KR2i0003/WYG/v1/markers/0
 seq: 0
 markers:
-  front:
+  body:
   - {type: line-break, offset: 0, content: '', id: KR2i0003_WYG_000-front01}
   - {type: 'kr:newline', offset: 10, content: '
 
@@ -118,14 +118,13 @@ markers:
 
       ', id: KR2i0003_WYG_000-bkkkrnewl24}
   - {type: line-break, offset: 411, content: '', id: KR2i0003_WYG_001-1a01}
-  body:
-  - {type: 'kr:newline', offset: 0, content: '
+  - {type: 'kr:newline', offset: 417, content: '
 
       ', id: KR2i0003_WYG_000-bkkkrnewl1}
-  - {type: line-break, offset: 0, content: '', id: KR2i0003_WYG_001-1a02}
-  - {type: indent, offset: 0, content: 　, id: KR2i0003_WYG_000-bkkind1}
-  - {type: 'kr:newline', offset: 0, content: '
+  - {type: line-break, offset: 417, content: '', id: KR2i0003_WYG_001-1a02}
+  - {type: indent, offset: 417, content: 　, id: KR2i0003_WYG_000-bkkind1}
+  - {type: 'kr:newline', offset: 417, content: '
 
       ', id: KR2i0003_WYG_000-bkkkrnewl2}
   back: []
-hash: sha256:fe713ada66664bab0dad5817c50ca509a01e5d2fdb1122639961cd979661f39e
+hash: sha256:b751e1899ace47cf4863430cda212a76d32eef7d6f49b0072ba3d22148274c47

@@ -17,7 +17,7 @@ entity_encoding:
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 assets:
   parts:
-  - {seq: 0, filename: KR2i0003_000-WYG.yaml, hash: 'sha256:84e0566d26fe8bdf91ff88af4041dddd09eb0e9b0b4016fb3a7e4e30a616690d'}
+  - {seq: 0, filename: KR2i0003_000-WYG.yaml, hash: 'sha256:016f261c2f38ba38b2a23176459858e56c545904b13ea741739be612f18612a0'}
   - {seq: 1, filename: KR2i0003_001-WYG.yaml, hash: 'sha256:e446cf26dbd2c8123dc0ac8d3101a2fd9fcba2e8317eb0aa64185449425078d3'}
   - {seq: 2, filename: KR2i0003_002-WYG.yaml, hash: 'sha256:9f1fdd1b6aad4201afad9aefbe207fc0e5fb5cdf81326b41a74785d1b775c5d4'}
   - {seq: 3, filename: KR2i0003_003-WYG.yaml, hash: 'sha256:f51c41ed7eb317de17d89f0a4bc503acf5a78831e532c4df642bee8842ee3a87'}
@@ -31,7 +31,7 @@ assets:
   - {seq: 11, filename: KR2i0003_011-WYG.yaml, hash: 'sha256:085d0aae4b220aa2674b1c7b0c70728aa53d9279fa9c0a1591357e63d8755443'}
   - {seq: 12, filename: KR2i0003_012-WYG.yaml, hash: 'sha256:28f298213ad3250674645d93cc287506a16a090c68d560c9f3d817d085e17f54'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2i0003_000-WYG.markers.yaml, hash: 'sha256:fe713ada66664bab0dad5817c50ca509a01e5d2fdb1122639961cd979661f39e'}
+  - {seq: 0, role: markers, filename: assets/KR2i0003_000-WYG.markers.yaml, hash: 'sha256:b751e1899ace47cf4863430cda212a76d32eef7d6f49b0072ba3d22148274c47'}
   - {seq: 1, role: markers, filename: assets/KR2i0003_001-WYG.markers.yaml, hash: 'sha256:42b2d19c5d127c053499cafacb2c920c63620e4a8a5f637fa2d5ecf0a2b8d97e'}
   - {seq: 2, role: markers, filename: assets/KR2i0003_002-WYG.markers.yaml, hash: 'sha256:9d1b048332045102929f8a44914012e30663e54cf0dad5c5a8001c654b52736b'}
   - {seq: 3, role: markers, filename: assets/KR2i0003_003-WYG.markers.yaml, hash: 'sha256:31744ee83c444a62b36b0c825d2009ac08103b2f5beb051d58bb0bea03024089'}
@@ -50,8 +50,8 @@ table_of_contents:
     marker_id: KR2i0003_WYG_000-7a
     span:
     - body
-    - 0
-    - 0
+    - 417
+    - 417
   label: juan 000
   type: section
   level: 1
@@ -175,4 +175,4 @@ table_of_contents:
   label: juan 012
   type: section
   level: 1
-hash: sha256:fe2ad1595096a260384300dc8db7063ef8f89178969aa8c7161f20cfea08ce22
+hash: sha256:7a33079be5e0c4247c16e4cda782ac72b731cbbc6c9376282b6b781f5179660b
